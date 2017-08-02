@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColorComplimenter</string>
+    <string name="Intro_Color_Question">Hey there what\'s your favorite color?</string>
+    <string name="title_activity_compliment">ComplimentActivity</string>
+    <string name="favorite_color_input">favoriteColor</string>
+    <string name="response_text">The color %1$s represents</string>
+</resources>
