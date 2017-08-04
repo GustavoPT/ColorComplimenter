@@ -3,5 +3,6 @@
     <string name="Intro_Color_Question">Hey there what\'s your favorite color?</string>
     <string name="title_activity_compliment">ComplimentActivity</string>
     <string name="favorite_color_input">favoriteColor</string>
-    <string name="response_text">The color %1$s represents</string>
+    <string name="response_text">The color %1$s represents %2$s</string>
+    <string name="compliment_background">%1$s</string>
 </resources>
